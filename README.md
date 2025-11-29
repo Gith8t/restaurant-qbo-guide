@@ -1,6 +1,13 @@
 # restaurant-qbo-guide
 Complete QuickBooks Online guide for restaurant bookkeeping - 50+ procedures, templates, and best practices
-# Restaurant QuickBooks Online Complete Guide 📊🍽️
+README.md (main page with overview)
+   complete-guide.md (the full guide)
+   /templates
+     - daily-cash-reconciliation.xlsx
+     - inventory-count.xlsx
+   /examples
+     - sample-reports.pdf
+     # Restaurant QuickBooks Online Complete Guide 📊🍽️
 
 A comprehensive, free resource for restaurant owners and bookkeepers using QuickBooks Online.
 
@@ -77,9 +84,3 @@ Includes:
 → POS integrations
 → Monthly checklists
 → KPI formulas
-
-No email required. No sales pitch. Just free knowledge.
-
-Link: [YOUR GITHUB LINK]
-
-Share with any restaurant owner who needs this! 🙏
